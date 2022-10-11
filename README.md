@@ -1,10 +1,9 @@
 # Libra
 ##  Integrated Material Balance Software
 
-"PROSPECT" is a software solution for analyzing petroleum production data using decline curve analysis methods such as Arps, Blasingame, NPI, etc.
-An interactive interface is provided by PROSPECT to assist engineers in the manual curve-fitting process, type-curve matching, and plotting semilog trend-lines. In addition, PROSPECT utilizes Artificial Intelligence (Genetic Algorithm) to automate the type-curve matching process and forecast production data accordingly.
+Using C#, I have developed the interface of "Libra" , which has an intricate and interactive GUI. Libra is an internal tool for the analysis of Material Balance. In addition to conventional reservoirs, it can also be used in fractured reservoirs. Libra enables the creation of several objects such as fluid, rock, saturation, sector, etc., as well as the creation of different sectors using the defined objects, which can then be used to run a single or multi-sector model and begin the analysis.
+Users of Libra have the ability to view results in a variety of powerful customizable charts and reports.
 
-I was responsible for the development of both the back-end and the front-end of PROSPECT. Below you will find several snapshots of the solution:
 
 > General Interface:
  

@@ -21,4 +21,4 @@ Users of Libra have the ability to view results in a variety of powerful customi
  
 ![Case Design](https://user-images.githubusercontent.com/75472719/195121705-1bc11cee-23c3-48a9-b323-4ab1227e23d9.png)
  
-> [🎥 View Demo Video](http://www.joukar.ir/libra/Video.mp4)
+> [🎥 View Demo Video](http://www.joukar.ir/libra/video/Video.mp4)
